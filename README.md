@@ -1,7 +1,8 @@
 # DPRK Gloydius
-MaxEnt ecological niche modeling workflow for the three species of Gloydius inhabiting the Democratic People's Repulic of Korea
+![range_map_IUCN](https://github.com/user-attachments/assets/4b5db3f5-50a7-4a41-b869-a1b5c33dfb3e)
 
-![image](https://github.com/yucheols/D.P.R.K.-Gloydius-ENMs/assets/85914125/8bb67475-88db-4a0d-9010-4d08772c958b)
+
+
 
 ## Background
 
