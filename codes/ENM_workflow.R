@@ -1,4 +1,7 @@
 ##################  Gloydius ENMs == use SDMtune
+# set working directory
+setwd('ENMs')
+
 # set random seed
 set.seed(555)
 
@@ -6,6 +9,9 @@ set.seed(555)
 Sys.getlocale()
 Sys.setlocale("LC_CTYPE", ".1251")
 Sys.getlocale()
+
+# clear working environment
+rm(list = ls(all.names = T))
 
 # load libraries
 library(SDMtune)
