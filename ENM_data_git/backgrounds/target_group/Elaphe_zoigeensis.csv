@@ -1,0 +1,3 @@
+"datasetKey","basisOfRecord","occurrenceStatus","species","decimalLongitude","decimalLatitude","stateProvince","year","month","day","issues","references","license","geodeticDatum","gbifID","catalogNumber"
+"50c9509d-22c7-4a22-a47d-8c48425ef4a7","HUMAN_OBSERVATION","PRESENT","Elaphe zoigeensis",103.383487,33.790594,"Gansu",2020,8,5,"cdround","https://www.inaturalist.org/observations/63638231","http://creativecommons.org/licenses/by/4.0/legalcode","WGS84","3031851009","63638231"
+"50c9509d-22c7-4a22-a47d-8c48425ef4a7","HUMAN_OBSERVATION","PRESENT","Elaphe zoigeensis",103.04816,34.020424,"Sichuan",2019,8,16,"cdround","https://www.inaturalist.org/observations/109043720","http://creativecommons.org/licenses/by-nc/4.0/legalcode","WGS84","3759091897","109043720"

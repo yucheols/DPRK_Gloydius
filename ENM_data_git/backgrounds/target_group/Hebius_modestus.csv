@@ -1,0 +1,2 @@
+"datasetKey","basisOfRecord","occurrenceStatus","species","decimalLongitude","decimalLatitude","stateProvince","year","month","day","issues","references","license","geodeticDatum","gbifID","catalogNumber","continent","preparations","locality","elevation","elevationAccuracy"
+"50c9509d-22c7-4a22-a47d-8c48425ef4a7","HUMAN_OBSERVATION","PRESENT","Hebius modestus",102.266874,25.019555,"Yunnan",2020,5,16,"cdround","https://www.inaturalist.org/observations/109226641","http://creativecommons.org/licenses/by-nc/4.0/legalcode","WGS84","3858172952","109226641",NA,NA,NA,NA,NA

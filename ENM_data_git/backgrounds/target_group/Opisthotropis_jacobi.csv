@@ -1,0 +1,2 @@
+"datasetKey","basisOfRecord","occurrenceStatus","species","decimalLongitude","decimalLatitude","continent","stateProvince","year","month","day","issues","references","license","preparations","geodeticDatum","gbifID","catalogNumber","locality","elevation","elevationAccuracy","type"
+"cece4fc2-1fec-4bb5-a335-7252548e3f0b","PRESERVED_SPECIMEN","PRESENT","Opisthotropis jacobi",103.836536,22.340314,"ASIA","Lao Cai Prov.",1934,NA,NA,"cdround",NA,"http://creativecommons.org/publicdomain/zero/1.0/legalcode","Alcohol","WGS84","543744628","9147","Chapa",NA,NA,"PhysicalObject"

@@ -1,0 +1,2 @@
+"datasetKey","basisOfRecord","occurrenceStatus","species","decimalLongitude","decimalLatitude","continent","stateProvince","year","month","issues","license","preparations","geodeticDatum","gbifID","type","catalogNumber","locality"
+"cece4fc2-1fec-4bb5-a335-7252548e3f0b","PRESERVED_SPECIMEN","PRESENT","Cryptoblepharus boutonii",142.216667,27.083333,"ASIA","Tokyo Pref.",1894,4,"cdround,gass84,txmathi","http://creativecommons.org/publicdomain/zero/1.0/legalcode","Alcohol","WGS84","543611461","PhysicalObject","27255","Chichi Shima [27 05 N, 142 13 E]"

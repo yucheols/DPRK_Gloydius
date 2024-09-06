@@ -1,0 +1,2 @@
+"datasetKey","basisOfRecord","occurrenceStatus","species","decimalLongitude","decimalLatitude","continent","stateProvince","year","month","day","issues","license","preparations","geodeticDatum","locality","gbifID","type","catalogNumber"
+"cd875b5a-b3fe-48f2-94c7-371cab1431f3","PRESERVED_SPECIMEN","PRESENT","Tropidophorus murphyi",105.912778,22.628611,"ASIA","Cao Bang",1998,5,11,"cdround,gass84,osiic,incomis,inmafu","http://creativecommons.org/licenses/by-nc/4.0/legalcode","Whole specimen (ETOH)","WGS84","Quang Thanh Village","1211766010","PhysicalObject","41221"

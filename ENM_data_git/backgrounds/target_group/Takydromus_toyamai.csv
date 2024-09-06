@@ -1,0 +1,2 @@
+"datasetKey","basisOfRecord","occurrenceStatus","species","decimalLongitude","decimalLatitude","continent","stateProvince","year","month","day","issues","license","preparations","geodeticDatum","gbifID","type","catalogNumber","locality"
+"cece4fc2-1fec-4bb5-a335-7252548e3f0b","PRESERVED_SPECIMEN","PRESENT","Takydromus toyamai",125.333333,24.75,"ASIA","Okinawa Pref.",1991,8,8,"cdround,gass84","http://creativecommons.org/publicdomain/zero/1.0/legalcode","Alcohol","WGS84","543547736","PhysicalObject","195928",NA

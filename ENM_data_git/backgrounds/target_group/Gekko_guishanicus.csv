@@ -1,0 +1,3 @@
+"datasetKey","basisOfRecord","occurrenceStatus","species","decimalLongitude","decimalLatitude","stateProvince","year","month","day","issues","references","license","geodeticDatum","gbifID","catalogNumber"
+"50c9509d-22c7-4a22-a47d-8c48425ef4a7","HUMAN_OBSERVATION","PRESENT","Gekko guishanicus",121.755124,24.617878,"Taiwan",2022,1,18,"cdround","https://www.inaturalist.org/observations/109822811","http://creativecommons.org/licenses/by-nc/4.0/legalcode","WGS84","3759091290","109822811"
+"50c9509d-22c7-4a22-a47d-8c48425ef4a7","HUMAN_OBSERVATION","PRESENT","Gekko guishanicus",121.943688,24.841653,"Taiwan",2020,10,10,"cdround","https://www.inaturalist.org/observations/62638720","http://creativecommons.org/licenses/by-nc/4.0/legalcode","WGS84","3031647993","62638720"

@@ -1,0 +1,3 @@
+"datasetKey","basisOfRecord","occurrenceStatus","species","decimalLongitude","decimalLatitude","stateProvince","year","month","day","issues","references","license","geodeticDatum","gbifID","catalogNumber"
+"50c9509d-22c7-4a22-a47d-8c48425ef4a7","HUMAN_OBSERVATION","PRESENT","Calotes goetzi",114.102656,22.431375,"Yuen Long",2019,6,5,"cdround","https://www.inaturalist.org/observations/26535821","http://creativecommons.org/licenses/by-nc/4.0/legalcode","WGS84","2265811483","26535821"
+"50c9509d-22c7-4a22-a47d-8c48425ef4a7","HUMAN_OBSERVATION","PRESENT","Calotes goetzi",100.038056,20.254722,"Chiang Rai",2011,2,3,"cdround","https://www.inaturalist.org/observations/81047602","http://creativecommons.org/licenses/by-nc/4.0/legalcode","WGS84","3302352217","81047602"

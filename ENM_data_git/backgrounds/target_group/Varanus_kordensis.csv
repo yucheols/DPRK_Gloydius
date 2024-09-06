@@ -1,0 +1,2 @@
+"datasetKey","basisOfRecord","occurrenceStatus","species","decimalLongitude","decimalLatitude","continent","year","month","day","issues","references","license","preparations","geodeticDatum","gbifID","catalogNumber","locality"
+"4bfac3ea-8763-4f4b-a71a-76a6f5f243d3","PRESERVED_SPECIMEN","PRESENT","Varanus kordensis",137.999992,35.999996,"ASIA",1945,7,1,"cdround,colmafu,inmafu","http://mczbase.mcz.harvard.edu/guid/MCZ:Herp:R-48877","http://creativecommons.org/licenses/by-nc/4.0/legalcode","skeleton (dry)","WGS84","476495208","R-48877","picked up,already stuffed in a swamp"

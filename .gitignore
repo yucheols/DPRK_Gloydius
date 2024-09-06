@@ -48,6 +48,5 @@ po/*~
 # RStudio Connect folder
 rsconnect/
 
-ENMs/envs
-ENMs/envs_all
-ENMs/Gloydius_ENM_mapping
+ENMs/
+
