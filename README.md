@@ -3,5 +3,5 @@
 
 ## Citation
 ```
-Y Shin, SN Othman, D Kohler, I Maslova, KR Messenger, A Borzée. In press. Contributions to the knowledge of pitvipers (Viperidae, Gloydius) in the Democratic People’s Republic of Korea: identification, description of specimens, and geographic distribution. ZooKeys 1249: 193-221.
+Y Shin, SN Othman, D Kohler, I Maslova, KR Messenger, A Borzée. 2025. Contributions to the knowledge of pitvipers (Viperidae, Gloydius) in the Democratic People’s Republic of Korea: identification, description of specimens, and geographic distribution. ZooKeys 1249: 193-221.
 ```
